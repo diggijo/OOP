@@ -1,4 +1,4 @@
-package Lab11.Sample2;
+package Lab11.Exercise2;
 
 public class Product {
     private int id;
@@ -35,6 +35,6 @@ public class Product {
     }
 
     public String toString() {
-        return "Product details are as follows: id: " + getId() + "  name: " + getName() + "  description: " + getDescription();
+        return "ID: " + getId() + "  Name: " + getName() + "  Description: " + getDescription();
     }
 }

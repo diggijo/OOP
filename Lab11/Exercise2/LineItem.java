@@ -1,4 +1,4 @@
-package Lab11.Sample2;
+package Lab11.Exercise2;
 
 public class LineItem {
     private int id;
